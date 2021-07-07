@@ -1,0 +1,2 @@
+rootProject.name = "RingOn100"
+include ':app'
